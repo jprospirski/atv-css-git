@@ -17,3 +17,24 @@ h1 {
 p {
     line-height: 1.6;
 }
+
+/* Atividade 5, 15 e 20*/
+button {
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    background-color: #475569;
+}
+
+/* Atividade 6, 9 e 13*/
+.cartao {
+    border: 1px solid #cbd5e1;
+    margin: 20px 10px;
+    background-color: white
+}
+
+/* Atividade 7 e 8*/
+.container {
+    max-width: 800px;
+    margin: auto;
+}
