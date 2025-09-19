@@ -1,0 +1,35 @@
+/* Atividade 1 */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Atividade 2 */
+h1, h2 {
+    color: #0f172a;
+}
+
+/* Atividade 3 */
+h1 {
+    letter-spacing: 2px;
+}
+
+/* Atividade 4 */
+p {
+    line-height: 1.6;
+}
+
+/* Atividade 5*/
+button {
+    text-transform: uppercase;
+}
+
+/* Atividade 6*/
+.cartao {
+    border: 1px solid #cbd5e1;
+}
+
+/* Atividade 7 e 8*/
+.container {
+    max-width: 800px;
+    margin: auto;
+}
