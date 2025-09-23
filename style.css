@@ -51,3 +51,25 @@ button {
     background-color: #f8fafc;
     color: #334155;
 }
+
+/* Atividade 17 */
+a:hover {
+    color: #dc2626;
+}
+
+/* Atividade 18 */
+.cartao:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Atividade 19 */
+nav ul li{
+    list-style-type: none;
+}
+/* Atividade 5, 15 e 20*/
+button {
+    text-transform: uppercase;
+    color: white;
+    border: none;
+    background-color: #475569;
+}
